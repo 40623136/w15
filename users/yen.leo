@@ -15,15 +15,15 @@
 </v>
 <v t="yen.20170108171622.1"><vh>有關 2017fall CADP &amp; CP</vh></v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
-<v t="leo.20170912150642.1" a="E"><vh>近端無 disqus</vh>
+<v t="leo.20170912150642.1"><vh>近端無 disqus</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="leo.20170912150710.1" a="E"><vh>有 disqus 論壇</vh>
+<v t="leo.20170912150710.1"><vh>有 disqus 論壇</vh>
 <v t="leo.20170912150710.2"><vh>@button github-blog</vh></v>
 </v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170912145121.1" a="E"><vh>近端</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
@@ -33,7 +33,7 @@
 <v t="leo.20170912145133.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170224232341.1"><vh>編輯 template</vh>
 <v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
@@ -49,29 +49,29 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="leo.20171107010141.1"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20171116000642.1" a="E"><vh>摘要</vh>
+<v t="leo.20171116000642.1"><vh>摘要</vh>
 <v t="leo.20171116000646.1" a="E"><vh>摘要</vh>
 <v t="leo.20171116000648.1"><vh>內文</vh></v>
 </v>
 </v>
 <v t="yen.20170108171733.16"><vh>W1~W3</vh>
-<v t="yen.20170108171733.17" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.17"><vh>W1-W3</vh>
 <v t="leo.20171107173416.1"><vh>內文</vh></v>
 </v>
-<v t="leo.20171108235305.1" a="E"><vh>open</vh>
+<v t="leo.20171108235305.1"><vh>open</vh>
 <v t="leo.20171108235312.1"><vh>開啟隨身系統</vh></v>
 </v>
-<v t="leo.20171107004003.1" a="E"><vh>如何複製網頁</vh>
+<v t="leo.20171107004003.1"><vh>如何複製網頁</vh>
 <v t="leo.20171107004120.1"><vh>fossil clone</vh></v>
 </v>
-<v t="leo.20171107171808.1" a="E"><vh>上傳</vh>
+<v t="leo.20171107171808.1"><vh>上傳</vh>
 <v t="leo.20171107172552.1"><vh>fossil commit</vh></v>
 </v>
 </v>
-<v t="leo.20171107005338.1" a="E"><vh>W4~W6</vh>
+<v t="leo.20171107005338.1"><vh>W4~W6</vh>
 <v t="leo.20171107205513.1"><vh>W4-W6</vh>
 <v t="leo.20171107205514.1"><vh>內文</vh></v>
 </v>
@@ -96,7 +96,25 @@
 <v t="leo.20171107235001.1"><vh>Vimeo&amp;Youtube</vh></v>
 </v>
 </v>
-<v t="leo.20171115232018.1" a="E"><vh>筆記</vh>
+<v t="leo.20180107105142.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180107105215.1" a="E"><vh>start.bat(W10)</vh>
+<v t="leo.20180107105419.1"><vh>改變leo位置</vh></v>
+</v>
+<v t="leo.20180107111418.1"><vh>newHeadline</vh>
+<v t="leo.20180107111421.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180107105249.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180107105253.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180107105424.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180107105258.1" a="E"><vh>W16-W18 </vh>
+<v t="leo.20180107105259.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180107105428.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20171115232018.1"><vh>筆記</vh>
 <v t="leo.20171115232506.1" a="E"><vh>筆記1</vh>
 <v t="leo.20171115232510.1"><vh>內文</vh></v>
 </v>
@@ -109,7 +127,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="yen.20170108171733.71"><vh>@path content</vh>
 <v t="leo.20171109005025.1"><vh>@edit 20171109.md</vh></v>
 <v t="leo.20171108230528.1"><vh>@edit 20171108.md</vh></v>
 <v t="leo.20171026084652.1"><vh>@edit 20171026.md</vh></v>
@@ -321,6 +339,46 @@ W7~W9:
 
 
 </t>
+<t tx="leo.20180107105142.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180107105215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180107105249.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180107105253.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180107105258.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180107105259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180107105419.1">&lt;html&gt;
+如何客製化start.bat 
+
+
+&lt;body&gt;
+&lt;font face="標楷體"&gt;將start.bat改為:&lt;/font&gt;&lt;br&gt;
+&lt;p align="left"&gt;1.開啟時start.bat會自動把設定好的leo的檔案開啟&lt;/h2&gt;
+&lt;p align="left"&gt;2.決定開啟幾個編輯器&lt;/p&gt;
+&lt;/html&gt;</t>
+<t tx="leo.20180107105424.1"></t>
+<t tx="leo.20180107105428.1"></t>
+<t tx="leo.20180107111418.1"></t>
+<t tx="leo.20180107111421.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
