@@ -384,10 +384,7 @@ W7~W9:
     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20180107105419.1">
-如何客製化start.bat 
-
-
+<t tx="leo.20180107105419.1">如何客製化start.bat 
 
 將start.bat改為:
 1.開啟時start.bat會自動把設定好的leo檔案開啟
