@@ -82,8 +82,8 @@
 <v t="leo.20171107233030.1"><vh>eric6</vh></v>
 </v>
 </v>
-<v t="leo.20171107005324.1"><vh>W7~W9</vh>
-<v t="leo.20171107205606.1"><vh>W7-W9</vh>
+<v t="leo.20171107005324.1" a="E"><vh>W7~W9</vh>
+<v t="leo.20171107205606.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171107205609.1"><vh>內文</vh></v>
 </v>
 <v t="leo.20171107205604.1"><vh>shareX</vh>
@@ -97,11 +97,17 @@
 </v>
 </v>
 <v t="leo.20180107105142.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180110211504.1" a="E"><vh>w10~w12</vh>
+<v t="leo.20180110211511.1"><vh>內文</vh></v>
+</v>
 <v t="leo.20180107105215.1" a="E"><vh>start.bat(W10)</vh>
 <v t="leo.20180107105419.1"><vh>改變leo位置</vh></v>
 </v>
-<v t="leo.20180107111418.1"><vh>newHeadline</vh>
-<v t="leo.20180107111421.1"><vh>newHeadline</vh></v>
+<v t="leo.20180107111418.1" a="E"><vh>DiaPortable與GIMP Portable</vh>
+<v t="leo.20180107111421.1"><vh>內文</vh></v>
+</v>
+<v t="leo.20180110211929.1" a="E"><vh>如何建立計算機程式對話框</vh>
+<v t="leo.20180110211930.1"><vh>內文</vh></v>
 </v>
 </v>
 <v t="leo.20180107105249.1" a="E"><vh>W13-W15</vh>
@@ -371,14 +377,43 @@ W7~W9:
 
 
 &lt;body&gt;
-&lt;font face="標楷體"&gt;將start.bat改為:&lt;/font&gt;&lt;br&gt;
+將start.bat改為:
 &lt;p align="left"&gt;1.開啟時start.bat會自動把設定好的leo的檔案開啟&lt;/h2&gt;
 &lt;p align="left"&gt;2.決定開啟幾個編輯器&lt;/p&gt;
 &lt;/html&gt;</t>
 <t tx="leo.20180107105424.1"></t>
 <t tx="leo.20180107105428.1"></t>
-<t tx="leo.20180107111418.1"></t>
-<t tx="leo.20180107111421.1"></t>
+<t tx="leo.20180107111418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180107111421.1">#介紹DiaPortable與GIMP Portable
+
+GIMP Portable:用於擷取圖面
+DiaPortable:可以在螢幕拉出漂亮的箭頭</t>
+<t tx="leo.20180110211504.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110211511.1"># W10~W12
+
+* 客製化start.bat
+* 介紹DiaPortable與GIMP Portable
+* 建立github
+* 建立計算機程式對話框</t>
+<t tx="leo.20180110211929.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110211930.1">#建立計算機程式對話框
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
