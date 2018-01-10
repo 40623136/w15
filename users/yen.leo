@@ -18,7 +18,7 @@
 <v t="leo.20170912150642.1"><vh>近端無 disqus</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="leo.20170912150710.1"><vh>有 disqus 論壇</vh>
+<v t="leo.20170912150710.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170912150710.2"><vh>@button github-blog</vh></v>
 </v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
@@ -390,8 +390,8 @@ W7~W9:
 
 
 將start.bat改為:
-####1.開啟時start.bat會自動把設定好的leo檔案開啟
-####2.決定開啟幾個編輯器</t>
+1.開啟時start.bat會自動把設定好的leo檔案開啟
+2.決定開啟幾個編輯器</t>
 <t tx="leo.20180107105424.1">建立EtherCalc表單
  * 說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程</t>
 <t tx="leo.20180107111418.1">&lt;section data-markdown&gt;
