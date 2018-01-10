@@ -82,8 +82,8 @@
 <v t="leo.20171107233030.1"><vh>eric6</vh></v>
 </v>
 </v>
-<v t="leo.20171107005324.1" a="E"><vh>W7~W9</vh>
-<v t="leo.20171107205606.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171107005324.1"><vh>W7~W9</vh>
+<v t="leo.20171107205606.1"><vh>W7-W9</vh>
 <v t="leo.20171107205609.1"><vh>內文</vh></v>
 </v>
 <v t="leo.20171107205604.1"><vh>shareX</vh>
@@ -92,7 +92,7 @@
 <v t="leo.20171109000249.1"><vh>建立計算機架構</vh>
 <v t="leo.20171109000305.1"><vh>內文</vh></v>
 </v>
-<v t="leo.20171107234958.1"><vh>影片上傳</vh>
+<v t="leo.20171107234958.1" a="E"><vh>影片上傳</vh>
 <v t="leo.20171107235001.1"><vh>Vimeo&amp;Youtube</vh></v>
 </v>
 </v>
@@ -111,18 +111,35 @@
 </v>
 </v>
 <v t="leo.20180107105249.1" a="E"><vh>W13-W15</vh>
-<v t="leo.20180107105253.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180107105424.1"><vh>newHeadline</vh></v>
+<v t="leo.20180110234930.1" a="E"><vh>W13~W15</vh>
+<v t="leo.20180110234932.1"><vh>內文</vh></v>
+</v>
+<v t="leo.20180107105253.1"><vh>表單</vh>
+<v t="leo.20180107105424.1"><vh>表單EtherCalc</vh></v>
+</v>
+<v t="leo.20180110235352.1" a="E"><vh>期末報告</vh>
+<v t="leo.20180110235353.1"><vh>期末報告</vh></v>
 </v>
 </v>
 <v t="leo.20180107105258.1" a="E"><vh>W16-W18 </vh>
-<v t="leo.20180107105259.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180107105428.1"><vh>newHeadline</vh></v>
+<v t="leo.20180110235722.1" a="E"><vh>W16~W18</vh>
+<v t="leo.20180110235723.1"><vh>w16~w18</vh></v>
+</v>
+</v>
+<v t="leo.20180110231626.1" a="E"><vh>其他</vh>
+<v t="leo.20180110231629.1"><vh>心得</vh>
+<v t="leo.20180110231639.1"><vh>心得</vh></v>
+</v>
+<v t="leo.20180111004450.1" a="E"><vh>自評成績</vh>
+<v t="leo.20180111004453.1"><vh>自評成績</vh></v>
 </v>
 </v>
 <v t="leo.20171115232018.1"><vh>筆記</vh>
 <v t="leo.20171115232506.1" a="E"><vh>筆記1</vh>
 <v t="leo.20171115232510.1"><vh>內文</vh></v>
+</v>
+<v t="leo.20180111004018.1" a="E"><vh>筆記1</vh>
+<v t="leo.20180111004020.1"><vh>內文</vh></v>
 </v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
@@ -310,7 +327,7 @@ Created by [黃子軒-40623136](https://kmolab.github.io/blog/)
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171115232510.1"># 上課筆記
+<t tx="leo.20171115232510.1"># 上課筆記(一)
 
 &lt;a href="https://cpa.kmol.info/40623136/raw/77fe241a99033645c95167a7c612afaabd7cbb68589d4204ee41351b115a5511?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623136/raw/77fe241a99033645c95167a7c612afaabd7cbb68589d4204ee41351b115a5511?m=image/jpeg" width="200" height="200"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623136/raw/a17d87b1809429819ac1207d02d6b208e55eaa30abf07e927d430a3a0c3c66a6?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623136/raw/a17d87b1809429819ac1207d02d6b208e55eaa30abf07e927d430a3a0c3c66a6?m=image/jpeg" width="200" height="200"&gt;&lt;/a&gt;
@@ -367,22 +384,16 @@ W7~W9:
     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20180107105259.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20180107105419.1">&lt;html&gt;
+<t tx="leo.20180107105419.1">
 如何客製化start.bat 
 
 
-&lt;body&gt;
+
 將start.bat改為:
-&lt;p align="left"&gt;1.開啟時start.bat會自動把設定好的leo的檔案開啟&lt;/h2&gt;
-&lt;p align="left"&gt;2.決定開啟幾個編輯器&lt;/p&gt;
-&lt;/html&gt;</t>
-<t tx="leo.20180107105424.1"></t>
-<t tx="leo.20180107105428.1"></t>
+####1.開啟時start.bat會自動把設定好的leo檔案開啟
+####2.決定開啟幾個編輯器</t>
+<t tx="leo.20180107105424.1">建立EtherCalc表單
+ * 說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程</t>
 <t tx="leo.20180107111418.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,10 +401,13 @@ W7~W9:
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180107111421.1">#介紹DiaPortable與GIMP Portable
+<t tx="leo.20180107111421.1">&lt;html&gt;
+介紹DiaPortable與GIMP Portable
 
-GIMP Portable:用於擷取圖面
-DiaPortable:可以在螢幕拉出漂亮的箭頭</t>
+&lt;body&gt;
+&lt;p align="center"&gt;GIMP Portable:用於擷取圖面&lt;/h2&gt;
+&lt;p align="center"&gt;DiaPortable:可以在螢幕拉出漂亮的箭頭&lt;/p&gt;
+&lt;/html&gt;</t>
 <t tx="leo.20180110211504.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -410,10 +424,73 @@ DiaPortable:可以在螢幕拉出漂亮的箭頭</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110211930.1">#建立計算機程式對話框
+<t tx="leo.20180110211930.1">建立計算機程式對話框
 
+&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E6%A1%86%E6%9E%B6.JPG?raw=true" width="250" height="250"&gt;&lt;/a&gt;
+
+先創建一個project，Name輸入calculator，Directory設定自己的檔案位置，Main Script輸入run.py。再到Forms新建New form對話框就新建好了
+</t>
+<t tx="leo.20180110231626.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110231629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110231639.1">#心得
+
+
+計算機程式這門課要學的好真的很不容易，不管是從剛開始的foosil還是github。但慢慢學卻也學到了很多東西，像是如何建立自己的倉儲亦或是建立計算機，還有要與同組解決bug。這門課使我獲益良多，之後也會更加努力學習。
 
 </t>
+<t tx="leo.20180110234930.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110234932.1"># W13~W15
+
+* 建立EtherCalc表單
+* 說明如何利用 Pandoc 與 MikTeX 協同編寫期末報告</t>
+<t tx="leo.20180110235352.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110235353.1">同組組員利用 Pandoc 與 MikTeX 製作期末報告，各自分配工作並且協同</t>
+<t tx="leo.20180110235722.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110235723.1"># W16~W18
+* 合力做出計算機程式
+* 完成小組報告</t>
+<t tx="leo.20180111004018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111004020.1"># 上課筆記(二)
+
+&lt;a href="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%981.jpg?raw=true"&gt;&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%981.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%982.jpg?raw=true"&gt;&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%982.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%983.jpg?raw=true"&gt;&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%983.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%984.jpg?raw=true"&gt;&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%984.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%986.jpg?raw=true"&gt;&lt;img src="https://github.com/40623136/w15/blob/gh-pages/data/note/%E7%AD%86%E8%A8%986.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180111004450.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111004453.1">#自評成績
+####出席 (20%): 20 分
+####平時表現 (30%): 18 分
+####驗收考試 (30%):23 分
+####驗收簡報 (20%): 15 分
+####總分 : 76 分</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
